@@ -1,0 +1,3 @@
+# Online Resource Search and Discovery Sandbox
+
+Small set of scripts I made to build some experience retrieving data from Enterprise Knowledge Graph, Knowledge Graph, Google search and WHOIS API. I was participating in a project that involved aggregating publicly available data related to a company based on the companys name or their website's URL. Running some parts of the code will require creating GCP project and following steps to use the project credentials.
